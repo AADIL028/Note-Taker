@@ -3,6 +3,7 @@
 ## Project Description
 NoteTaker is a web-based application that allows users to create, read, update, and delete (CRUD) notes. The application is built using Java technologies with a focus on simplicity and efficiency.
 
+
 ## 🛠️ Technologies Used
 - **Backend:** Hibernate
 - **Frontend:** JSP, Bootstrap, HTML, CSS
@@ -16,6 +17,21 @@ NoteTaker is a web-based application that allows users to create, read, update, 
 - **Update:** Users can edit existing notes.
 - **Delete:** Users can delete notes.
 - **Responsive Design:** The application is mobile-friendly thanks to Bootstrap.
+
+## 📸 Demo Images
+- Home page
+
+![Screenshot (335)](https://github.com/AADIL028/Note-Taker/assets/112774372/8d49f79d-f1a2-41f9-b067-bdc3572cd278)
+- Add note page
+
+![Screenshot (336)](https://github.com/AADIL028/Note-Taker/assets/112774372/09bf8b18-9caa-44b9-bd22-7a9362cbebe8)
+- Show notes page
+
+![Screenshot (337)](https://github.com/AADIL028/Note-Taker/assets/112774372/ffa08b2a-0753-419d-8a67-3f1134e6b64d)
+- Update note page
+
+![Screenshot 2024-06-20 171414](https://github.com/AADIL028/Note-Taker/assets/112774372/b4d09eac-b7e9-4e6c-a6b2-d7bd3534e1be)
+
 
 ## 🏗️ Application Architecture
 - **Model:**
